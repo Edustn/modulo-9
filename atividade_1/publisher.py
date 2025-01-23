@@ -19,6 +19,7 @@ def datasheet():
 
 
     }
+    
     return json.dumps(data)
     
 # Criação do cliente para o publisher
