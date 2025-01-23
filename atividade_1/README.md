@@ -9,3 +9,5 @@ Esse projeto consiste na construção de um publisher baseado nas medidas de um 
 3 - Instale as dependências que estão no arquivo `requirements.txt`. Para isso execute o comando: `pip install -r requirements.txt`
 
 4 - Execute o comando `python3 publisher.py` para executar o programa.
+
+Vídeo para ver o funcionamento do projeto: [https://drive.google.com/file/d/1p1jMABY6kIqPY_zUA3CUgaXdU2eOJyp6/view?usp=sharing](https://drive.google.com/file/d/1p1jMABY6kIqPY_zUA3CUgaXdU2eOJyp6/view?usp=sharing)
