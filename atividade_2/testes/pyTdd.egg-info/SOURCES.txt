@@ -1,0 +1,9 @@
+pyproject.toml
+setup.cfg
+pyTdd.egg-info/PKG-INFO
+pyTdd.egg-info/SOURCES.txt
+pyTdd.egg-info/dependency_links.txt
+pyTdd.egg-info/not-zip-safe
+pyTdd.egg-info/requires.txt
+pyTdd.egg-info/top_level.txt
+tests/test_calculator.py
