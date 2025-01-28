@@ -24,3 +24,6 @@ allow_anonymous true
 Os testes realizados foram feitos se estava chegando agluma mensgaem pelo tópico; se a mensagem continha dados válidos (ou seja, nesse caso se possuia os campos de 'time', 'solar_radiation', 'unit_solar_radiation', 'spectral_range' e 'unit_spectral_range'); foi feito também o teste para analisar o teste de disparo e também teste com o QoS para qualidade.
 
 Nesse sentido, o teste de QoS está englobado no de disparo, pois foi inserido na classe em que se adapta o subscriber (caminho: [atividade_2/testes/pyTdd/Calculator/Subscriber.py](testes/pyTdd/Calculator/Subscriber.py)) o QoS e a partir do tempo se valda esse teste de qualidade.
+
+
+Vídeo de demonstração: [https://drive.google.com/file/d/1cUnTxXuOEf5hWaipbZXl026rjmQxeBJZ/view?usp=sharing](https://drive.google.com/file/d/1cUnTxXuOEf5hWaipbZXl026rjmQxeBJZ/view?usp=sharing)
